@@ -1,0 +1,11 @@
+
+/*Estilo geral das páginas do site*/
+body{
+    background-color:rgb(253, 253, 253);
+   }
+   h1,h2,h3 {
+    color: rgb(247, 22, 172);
+   }
+   h5 {text-align: center;font-size: 15px;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+   img,p{display: inline-block;}
+   h2,h3,h4{display: block;}
